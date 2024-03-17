@@ -1,6 +1,13 @@
 # Linux-Text-To-Speech
 A How-To Guide for Building a Text-To-Speech App on Linux
 
+
+By using anything in this project, you agree that the project is not liable to any damage to your data or systems. 
+
+<b>To Do List</b>:
+- [ ] Add better links
+- [ ] Spellcheck & QA
+
 # **DIY Linux Text-To-Speech by John Williams Digital.**
 
 John Williams Digital
